@@ -1,0 +1,180 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  max-width: 1500px;
+  margin: auto;
+}
+
+nav li {
+  height: 64px;
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+  margin: 2em 3em 4em 2em;
+}
+
+nav img {
+  position: relative;
+  bottom: -1em;
+  max-width:70px;
+  max-height: 70px;
+}
+
+a:hover {
+  color: black;
+}
+
+a:hover i { color: black }
+
+.fa-calendar-o:hover{
+  color: black;
+}
+
+.fa-book:hover{
+  color: black;
+}
+
+.fa-picture-o:hover{
+  color: black;
+}
+
+.fa-envelope:hover{
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a {color: #49C3B4}
+
+.container2 {
+  margin: auto;
+  max-width: 1200px;
+}
+
+nav {
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+
+h3 {
+  margin: 2em;
+}
+
+.fa-calendar-o {
+  color: #49C3B4;
+}
+
+.fa-book {
+  color: #49C3B4;
+}
+
+.fa-picture-o {
+  color: #49C3B4;
+}
+
+.fa-envelope {
+  color: #49C3B4;
+}
+
+.title {
+  font-family: 'Courgette', cursive;
+  text-align-last: center;
+}
+
+table {
+  width: 90%;
+  margin: auto;
+}
+
+th {
+  background-color: #49C3B4;
+  border: 1px solid #dddddd;
+  font-family: 'Courgette', cursive;
+  color: white;
+  text-align: left;
+  padding: 1em;
+  font-size: 2em;
+}
+
+td {
+  padding: 1em;
+  border: 1px solid #dddddd;
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+table, th, td {
+  border: 1px solid #dddd;
+  border-collapse: collapse;
+}
+
+.middle {
+  text-align: center;  }
+
+.green {
+  text-align: center;
+  color: #49C3B4;
+}
+
+.text {
+  color: #49C3B4;
+}
+
+.source {
+  background-color: white;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  color: #49C3B4;
+  border-color: #49C3B4;
+}
+
+.submit {
+  background-color: #49C3B4;
+  color: white;
+}
+
+.textinput {
+font-family: 'Open Sans', sans-serif;
+color: #49C3B4;
+float: left;
+width: 48%;
+border-style: none;
+border-bottom: solid #49C3B4 1px;
+}
+
+.textinput2 {
+font-family: 'Open Sans', sans-serif;
+color: #49C3B4;
+float: right;
+width: 48%;
+border-style: none;
+border-bottom: solid #49C3B4 1px;
+
+}
+
+.textinput3 {
+font-family: 'Open Sans', sans-serif;
+color: #49C3B4;
+width: 100%;
+border-style: none;
+border-bottom: solid #49C3B4 1px;
+margin-top: 2em;
+}
+
+.align {
+  text-align: center;
+}
+
+input.submit {
+  margin: 2em;
+}
