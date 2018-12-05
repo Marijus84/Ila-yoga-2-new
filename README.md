@@ -1,2 +1,3 @@
-# Ila-yoga-2-new
-Finished yoga 2
+# Ila-yoga-part2
+
+3wa academy lesson. Focus on usage of tables, HTML forms.
